@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from sklearn.linear_model import LinearRegression
+from  sklearn.linear_model import LinearRegression
 # 读取生活满意度csv
 
 bli = pd.read_csv("BLI_14012020152147151.csv")
